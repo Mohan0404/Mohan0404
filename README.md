@@ -15,7 +15,7 @@
 <a href="https://medium.com/@chandramohan saravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chandramohan saravanan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mohan0404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohan0404" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chandramohan0401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandramohan0401" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chandramohan saravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chandramohan saravanan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chandramohan_saravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chandramohan saravanan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
