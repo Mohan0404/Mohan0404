@@ -87,7 +87,7 @@ I enjoy reading about system design, studying how real-world platforms are built
 | **Event-Driven E-Commerce Backend** | Kafka event bus, Saga pattern, CQRS | Go · Kafka · PostgreSQL · Redis · Docker | ![Building](https://img.shields.io/badge/Building-7c3aed?style=flat-square&logoColor=white) |
 | **Cloud Native Microservices Platform** | gRPC service mesh, K8s deployment, Prometheus observability | Go · gRPC · Kubernetes · Helm · Grafana | ![Building](https://img.shields.io/badge/Building-7c3aed?style=flat-square&logoColor=white) |
 | **AI Agent Orchestration Platform** | Multi-agent workflows, RAG pipelines, stateful graph execution | Python · LangGraph · CrewAI · FastAPI · Pinecone | ![Building](https://img.shields.io/badge/Building-7c3aed?style=flat-square&logoColor=white) |
-| **Gmail AI Classification Agent** | BERT classification, LLM draft generation, Gmail API integration | Python · HuggingFace · FastAPI · OpenAI · PostgreSQL | ![Exploring](https://img.shields.io/badge/Exploring-4f46e5?style=flat-square&logoColor=white) |
+| **Gmail AI Classification Agent** | BERT classification, LLM draft generation, Gmail API integration | Python · HuggingFace · FastAPI · PostgreSQL | ![Exploring](https://img.shields.io/badge/Exploring-4f46e5?style=flat-square&logoColor=white) |
 
 </div>
 
@@ -99,11 +99,11 @@ I enjoy reading about system design, studying how real-world platforms are built
 
 | Domain | Technologies |
 |:---|:---|
-| **Languages** | Go • Python • C++ |
-| **Backend** | Gin • REST • gRPC • Microservices • Protocol Buffers |
+| **Languages** | Python • C++ • Go |
+| **Backend** |  REST • gRPC • Gin • Microservices • Protocol Buffers |
 | **AI Engineering** | LangGraph • CrewAI • RAG • MCP • Vector DBs |
 | **Databases** | Redis • MongoDB • Pinecone • MySQL |
-| **Event Streaming** | Apache Kafka • RabbitMQ|
+| **Event Streaming** | Apache Kafka • RabbitMQ |
 | **Cloud Native** | Docker • Kubernetes • AWS (EC2, S3, EKS, Lambda) |
 | **Observability** | Prometheus • Grafana |
 | **Foundations** | Linux • Operating Systems • Computer Networks • System Design |
@@ -132,8 +132,7 @@ I enjoy reading about system design, studying how real-world platforms are built
 | **Distributed Systems** | Kafka event streaming internals, event sourcing, CQRS patterns |
 | **Cloud Native** | Kubernetes cluster architecture, Helm chart engineering, Docker networking |
 | **AI Engineering** | LangGraph multi-agent workflows, RAG pipeline design, MCP protocol |
-| **Problem Solving** | LeetCode Medium → Hard, Codeforces rated rounds |
-| **Reading** | *Designing Data-Intensive Applications* · *Building Microservices* · *System Design Interview Vol. I & II* |
+| **Problem Solving** | LeetCode Medium → Hard, Codeforces|
 
 </div>
 
@@ -213,7 +212,7 @@ A **project exploring multi-agent AI workflows** built on LangGraph's stateful g
 | **Retrieval** | Pinecone vector search · Semantic chunking · Cross-encoder reranking |
 | **Auth & Safety** | API key authentication · Rate limiting · Input sanitization & prompt injection guards |
 | **Reliability** | Stateful checkpointing for fault-tolerant recovery · Retry on LLM timeouts |
-| **Tech Stack** | Python · LangGraph · CrewAI · FastAPI · OpenAI · Pinecone · Docker |
+| **Tech Stack** | Python · LangGraph · CrewAI · FastAPI · Pinecone · Docker |
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/ai-agent-platform)
 
@@ -224,9 +223,7 @@ A **project exploring multi-agent AI workflows** built on LangGraph's stateful g
 ---
 
 <details>
-<summary><b>&nbsp;📧&nbsp; Gmail AI Classification Agent</b> &nbsp;—&nbsp; Python · BERT · FastAPI · OpenAI APIs</summary>
-
-<br/>
+<summary><b>&nbsp;📧&nbsp; Gmail AI Classification Agent</b> &nbsp;—&nbsp; Python · BERT · FastAPI · Gmail-API<br/>
 
 <br/>
 
@@ -237,9 +234,9 @@ A **project exploring multi-agent AI workflows** built on LangGraph's stateful g
 | **Classification** | Fine-tuned BERT model · Priority score thresholds · Rule-based fallback |
 | **Auth** | OAuth2 Google authentication · No email data persistence |
 | **Reliability** | Exponential backoff on API failures · Dead-letter queue for failed batches |
-| **Tech Stack** | Python · HuggingFace Transformers (BERT) · FastAPI · OpenAI APIs · Gmail API · PostgreSQL |
+| **Tech Stack** | Python · HuggingFace Transformers (BERT) · FastAPI · Gmail API · PostgreSQL |
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/gmail-ai-agent)
+[![View Repository](https://img.shields.io/badge/View%20Repository-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohan0404/gmail-ai-agent)
 
 <br/>
 
