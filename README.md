@@ -44,7 +44,7 @@
 
 I'm a **backend engineering enthusiast** actively building projects to deepen my understanding of **distributed systems**, **event-driven architectures**, and **AI agent development**.
 
-I work primarily in **Go** for backend services and microservices, **Python** for AI pipelines and LLM-powered agent workflows, and **C++** for algorithmic problem-solving and competitive programming.
+I work primarily in **Go** for backend services and microservices, **Python** for AI pipelines and LLM-powered agent workflows, and **Java** for algorithmic problem-solving and competitive programming.
 
 My projects explore **Kafka-driven event streaming**, **gRPC communication**, **Kubernetes deployments**, and **RAG-powered AI systems**. I'm drawn to understanding how distributed systems handle failure, how services coordinate at scale, and how AI can be grounded in reliable retrieval pipelines.
 
@@ -99,7 +99,7 @@ I enjoy reading about system design, studying how real-world platforms are built
 
 | Domain | Technologies |
 |:---|:---|
-| **Languages** | Python • C++ • Go |
+| **Languages** | Python • Java • Go |
 | **Backend** |  REST • gRPC • Gin • Microservices • Protocol Buffers |
 | **AI Engineering** | LangGraph • CrewAI • RAG • MCP • Vector DBs |
 | **Databases** | Redis • MongoDB • Pinecone • MySQL |
