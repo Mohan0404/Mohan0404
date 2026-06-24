@@ -84,10 +84,9 @@ I enjoy reading about system design, studying how real-world platforms are built
 
 | Project | Current Focus | Tech Stack | Status |
 |:---|:---|:---|:---:|
-| **Event-Driven E-Commerce Backend** | Kafka event bus, Saga pattern, CQRS | Go · Kafka · PostgreSQL · Redis · Docker | ![Building](https://img.shields.io/badge/Building-7c3aed?style=flat-square&logoColor=white) |
-| **Cloud Native Microservices Platform** | gRPC service mesh, K8s deployment, Prometheus observability | Go · gRPC · Kubernetes · Helm · Grafana | ![Building](https://img.shields.io/badge/Building-7c3aed?style=flat-square&logoColor=white) |
+| **Event-Driven E-Commerce Backend** | Kafka event bus, Saga pattern, CQRS | Go · Kafka · MySQL · Redis · Docker | ![Building](https://img.shields.io/badge/Building-7c3aed?style=flat-square&logoColor=white) |
 | **AI Agent Orchestration Platform** | Multi-agent workflows, RAG pipelines, stateful graph execution | Python · LangGraph · CrewAI · FastAPI · Pinecone | ![Building](https://img.shields.io/badge/Building-7c3aed?style=flat-square&logoColor=white) |
-| **Gmail AI Classification Agent** | BERT classification, LLM draft generation, Gmail API integration | Python · HuggingFace · FastAPI · PostgreSQL | ![Exploring](https://img.shields.io/badge/Exploring-4f46e5?style=flat-square&logoColor=white) |
+| **Gmail AI Classification Agent** | BERT classification, LLM draft generation, Gmail API integration | Python · HuggingFace · FastAPI · MySQL | ![Exploring](https://img.shields.io/badge/Exploring-4f46e5?style=flat-square&logoColor=white) |
 
 </div>
 
@@ -101,7 +100,7 @@ I enjoy reading about system design, studying how real-world platforms are built
 |:---|:---|
 | **Languages** | Python • Java • Go |
 | **Backend** |  REST • gRPC • Gin • Microservices • Protocol Buffers |
-| **AI Engineering** | LangGraph • CrewAI • RAG • MCP • Vector DBs |
+| **AI Engineering** | LangGraph • CrewAI • RAG • Vector DBs |
 | **Databases** | Redis • MongoDB • Pinecone • MySQL |
 | **Event Streaming** | Apache Kafka • RabbitMQ |
 | **Cloud Native** | Docker • Kubernetes • AWS (EC2, S3, EKS, Lambda) |
@@ -166,34 +165,7 @@ A **portfolio project exploring event-driven microservices architecture**, built
 
 </details>
 
----
 
-<details>
-<summary><b>&nbsp;☸️&nbsp; Cloud Native Microservices Platform</b> &nbsp;—&nbsp; Go · gRPC · Kubernetes · Prometheus · Grafana</summary>
-
-<br/>
-
-A **learning project exploring cloud-native microservices deployment**, designed to understand how gRPC service meshes work, how Kubernetes orchestrates containerized backends, and how observability is implemented across distributed services. Uses Protocol Buffers for strongly-typed inter-service contracts and Prometheus + Grafana for metrics and visibility.
-
-
-<br/>
-
-| Attribute | Detail |
-|:---|:---|
-| **Architecture** | Cloud Native Microservices · gRPC Service Mesh · Protocol Buffers Contracts |
-| **What I'm Learning** | Kubernetes pod scheduling, HPA configuration, Helm chart structure |
-| **Communication** | gRPC binary protocol · HTTP/2 multiplexing · strongly-typed Protobuf contracts |
-| **Security** | mTLS between services · Kubernetes RBAC · Network Policies |
-| **Observability** | Prometheus metric scraping · Grafana dashboards · liveness & readiness probes |
-| **Tech Stack** | Go · gRPC · Docker · Kubernetes · Helm · Prometheus · Grafana · GitHub Actions |
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohan0404/cloud-native-microservices)
-
-<br/>
-
-</details>
-
----
 
 <details>
 <summary><b>&nbsp;🤖&nbsp; AI Agent Orchestration Platform</b> &nbsp;—&nbsp; Python · LangGraph · RAG · FastAPI · Vector DB</summary>
@@ -266,9 +238,7 @@ A **project exploring multi-agent AI workflows** built on LangGraph's stateful g
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/CHANDRAMOHAN_SARAVANAN)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR_USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR_USERNAME)
+
 
 </div>
 
