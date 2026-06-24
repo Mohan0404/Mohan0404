@@ -115,7 +115,7 @@ I enjoy reading about system design, studying how real-world platforms are built
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,go,mysql,redis,mongodb,docker,kubernetes,aws,linux,git,githubactions,fastapi,rabbitmq,kafka" />
+<img src="https://skillicons.dev/icons?i=python,java,go,mysql,redis,mongodb,docker,kubernetes,aws,linux,git,githubactions,fastapi,rabbitmq,kafka" />
 
 </div>
 
