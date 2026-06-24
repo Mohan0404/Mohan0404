@@ -44,7 +44,7 @@
 
 I'm a **backend engineering enthusiast** actively building projects to deepen my understanding of **distributed systems**, **event-driven architectures**, and **AI agent development**.
 
-I work primarily in **Go** for backend services and microservices, **Python** for AI pipelines and LLM-powered agent workflows, and **Java** for algorithmic problem-solving and competitive programming.
+I work primarily in **Go** for backend services and microservices, **Python** for AI pipelines and LLM-powered agent workflows, and **Java** for algorithmic problem-solving.
 
 My projects explore **Kafka-driven event streaming**, **gRPC communication**, **Kubernetes deployments**, and **RAG-powered AI systems**. I'm drawn to understanding how distributed systems handle failure, how services coordinate at scale, and how AI can be grounded in reliable retrieval pipelines.
 
@@ -102,7 +102,7 @@ I enjoy reading about system design, studying how real-world platforms are built
 | **Backend** |  REST • gRPC • Gin • Microservices • Protocol Buffers |
 | **AI Engineering** | LangGraph • CrewAI • RAG • Vector DBs |
 | **Databases** | Redis • MongoDB • Pinecone • MySQL |
-| **Event Streaming** | Apache Kafka • RabbitMQ |
+| **Event Streaming** | Apache Kafka |
 | **Cloud Native** | Docker • Kubernetes • AWS (EC2, S3, EKS, Lambda) |
 | **Observability** | Prometheus • Grafana |
 | **Foundations** | Linux • Operating Systems • Computer Networks • System Design |
@@ -114,7 +114,7 @@ I enjoy reading about system design, studying how real-world platforms are built
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,go,mysql,redis,mongodb,docker,kubernetes,aws,linux,git,githubactions,fastapi,rabbitmq,kafka" />
+<img src="https://skillicons.dev/icons?i=python,java,go,mysql,redis,mongodb,docker,kubernetes,aws,linux,git,githubactions,fastapi,kafka" />
 
 </div>
 
@@ -157,7 +157,7 @@ A **portfolio project exploring event-driven microservices architecture**, built
 | **Communication** | Async Kafka events between services; REST for external API surface |
 | **Auth** | JWT-based authentication · Service-level authorization |
 | **Resilience Patterns** | Dead-letter queues · Idempotent consumers · Retry policies |
-| **Tech Stack** | Go · Apache Kafka · PostgreSQL · Redis · Docker Compose · Prometheus |
+| **Tech Stack** | Go · Apache Kafka · MySQL · Redis · Docker Compose · Prometheus |
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohan0404/ecommerce-event-driven)
 
@@ -206,7 +206,7 @@ A **project exploring multi-agent AI workflows** built on LangGraph's stateful g
 | **Classification** | Fine-tuned BERT model · Priority score thresholds · Rule-based fallback |
 | **Auth** | OAuth2 Google authentication · No email data persistence |
 | **Reliability** | Exponential backoff on API failures · Dead-letter queue for failed batches |
-| **Tech Stack** | Python · HuggingFace Transformers (BERT) · FastAPI · Gmail API · PostgreSQL |
+| **Tech Stack** | Python · HuggingFace Transformers (BERT) · FastAPI · Gmail API · MySQL |
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohan0404/gmail-ai-agent)
 
