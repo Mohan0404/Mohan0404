@@ -242,28 +242,6 @@ A **project exploring multi-agent AI workflows** built on LangGraph's stateful g
 
 </div>
 
----
-◈ GitHub Analytics
-
-<br/>
-<div align="center">
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Mohan0404&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=c4b5fd&text_color=a5b4fc&icon_color=7c3aed&ring_color=7c3aed" />
-&nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan0404&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c4b5fd&text_color=a5b4fc" />
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Mohan0404&theme=midnight-purple&hide_border=true&background=0d0221&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=a5b4fc&stroke=3b0764" />
-</div>
-<div align="center">
-Show Image
-
-</div>
-<div align="center">
-Show Image
-
-</div>
-
----
 
 ## ◈ Connect
 
