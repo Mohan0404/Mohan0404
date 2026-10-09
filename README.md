@@ -38,15 +38,15 @@ I'm a final-year **Information Technology** student building **backend APIs and 
 | Domain | Technologies |
 |:---|:---|
 | **Languages** | Python · Java |
-| **Backend** | FastAPI ·  REST APIs · Kafka (messaging queue) |
+| **Backend** | FastAPI ·  REST APIs · Kafka |
 | **Databases & Caching** | MySQL · MongoDB · Redis |
-| **AI & ML** | RAG · LLMs · LangChain · ChromaDB · Supervised Learning · Pandas · BERT |
+| **AI & ML** | RAG · LLMs · LangChain · ChromaDB · Supervised Learning |
 | **LLM Providers** | Gemini · OpenRouter |
 | **Tools** | Git · GitHub · Postman · Docker · Kubernetes |
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,flask,mysql,mongodb,redis,kafka,docker,git,github,postman,pandas" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,mysql,mongodb,redis,kafka,docker,kubernetes,git,github,postman" alt="Technology icons" />
 
 </div>
 
@@ -72,23 +72,24 @@ A **RAG-based knowledge assistant** that answers questions from ingested documen
 [![View Repository](https://img.shields.io/badge/View%20Repository-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohan0404/NexusRag)
 <!-- TODO: replace NEXUSRAG_REPO_NAME with the real repository name -->
 
-</details>
-
 <details>
-<summary><b>&nbsp;🎟️&nbsp; EventConnect</b> &nbsp;—&nbsp; AI-powered student event recommendations</summary>
+<summary><b>&nbsp;🎟️&nbsp; EventConnect</b> &nbsp;—&nbsp; AI-Powered Hackathon & Competition Discovery</summary>
 
 <br/>
 
-An **AI-powered recommendation application** that helps students discover campus events relevant to their interests.
+An **AI-powered hackathon and competition discovery platform** that aggregates opportunities from multiple sources and helps students identify events relevant to their projects and interests. It combines semantic matching, AI-generated project pitch guidance, and an agent-based assistant.
 
 | Attribute | Detail |
 |:---|:---|
-| **Use Case** | Personalized student event discovery and recommendations |
-| **Implementation** | <!-- TODO: describe the actual recommendation approach you built --> |
-| **Tech Stack** | <!-- TODO: list the real stack, including React only if the project actually uses it --> |
+| **Use Case** | Discover hackathons and competitions aligned with student projects and interests |
+| **Recommendation Engine** | Sentence-Transformer embeddings (`all-MiniLM-L6-v2`) and cosine similarity for semantic event matching |
+| **AI Assistance** | Gemini-powered project pitch advice and a Groq-powered agent workflow for routing user requests to relevant tools |
+| **Data Ingestion** | Source-specific event scrapers, with scheduled scraping using APScheduler |
+| **Backend** | Python, FastAPI, REST APIs |
+| **Database & Security** | MongoDB, JWT authentication, bcrypt password hashing |
+| **Frontend & Deployment** | React, Vite, Docker |
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohan0404/EventConnect)
-<!-- TODO: replace EVENTCONNECT_REPO_NAME with the real repository name -->
 
 </details>
 
@@ -103,7 +104,7 @@ An **AI-powered recommendation application** that helps students discover campus
 | **RAG Engineering** | Improving chunking, retrieval quality, and citation accuracy |
 | **LLM Integration** | Working with multiple providers (Gemini, OpenRouter) through LangChain |
 | **Backend** | Building cleaner, better-structured FastAPI services |
-| **Exploring** | CrewAI multi-agent workflows · Kafka messaging fundamentals |
+| **Exploring** | Langchain multi-agent workflows · Kafka messaging fundamentals |
 | **Problem Solving** | Data structures and algorithms in Python |
 
 </div>
