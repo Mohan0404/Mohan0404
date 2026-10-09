@@ -55,7 +55,7 @@ I'm a final-year **Information Technology** student building **backend APIs and 
 ## ◈ Featured Projects
 
 <details open>
-<summary><b>&nbsp;📚&nbsp; NexusRAG — Genworx Knowledge Assistant</b> &nbsp;—&nbsp; Python · FastAPI · LangChain · ChromaDB · Redis</summary>
+<summary><b>&nbsp;📚&nbsp; NexusRAG — AI Knowledge Assistant</b> &nbsp;—&nbsp; Python · FastAPI · LangChain · ChromaDB · Redis </summary>
 
 <br/>
 
@@ -70,7 +70,6 @@ A **RAG-based knowledge assistant** that answers questions from ingested documen
 | **Tech Stack** | Python · FastAPI · LangChain · ChromaDB · Redis · Gemini · OpenRouter |
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohan0404/NexusRag)
-<!-- TODO: replace NEXUSRAG_REPO_NAME with the real repository name -->
 
 <details>
 <summary><b>&nbsp;🎟️&nbsp; EventConnect</b> &nbsp;—&nbsp; AI-Powered Hackathon & Competition Discovery</summary>
